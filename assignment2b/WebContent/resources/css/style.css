@@ -1,0 +1,4 @@
+.ordertable {border:1px black solid; padding:5px}
+.ordertableodd{background: #D3D3D3}
+.ordertableeven{background: #A9A9A9}
+.ordertablerow{background: #ffc300; padding:3px}
